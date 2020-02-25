@@ -6,3 +6,5 @@ This is a controller for 4 small magnetic loops with arduino uno and a cnc shiel
 
 Complete instruction in this link : 
 https://www.instructables.com/id/Magnetic-Loop-Controller-for-4-Antennas/
+
+25/02/2002 Fixed a bug that affected the antenna number
