@@ -8,3 +8,5 @@ Complete instruction in this link :
 https://www.instructables.com/id/Magnetic-Loop-Controller-for-4-Antennas/
 
 25/02/2002 Fixed a bug that affected the antenna number
+
+28/02/2002 fixed some bug. Some improvements in the code
